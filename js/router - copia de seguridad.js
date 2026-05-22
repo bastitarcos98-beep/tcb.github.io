@@ -19,33 +19,46 @@ async function loadView() {
 
         app.innerHTML = html;
 
-        // AQUÍ YA EXISTE EL DOM DE LA VISTA
-
+        // PRODUCTOS
         if (view === "productos") {
-            await renderProductos();
+            setTimeout(() => {
+                renderProductos();
+            }, 0);
         }
 
         if (view === "producto") {
-            await renderProductoDetalle();
+            setTimeout(() => {
+                renderProductoDetalle();
+            }, 0);
         }
 
         // WOW
         if (typeof WOW !== "undefined") {
+
             new WOW().init();
         }
 
+        // OWL CAROUSEL
         $('.testimonial-carousel').owlCarousel({
+
             autoplay: true,
             smartSpeed: 1000,
             center: false,
             dots: true,
             loop: true,
             margin: 25,
-            nav: false,
+            nav : false,
+
             responsive: {
-                0:{ items:1 },
-                768:{ items:2 },
-                992:{ items:2 }
+                0:{
+                    items:1
+                },
+                768:{
+                    items:2
+                },
+                992:{
+                    items:2
+                }
             }
         });
 
