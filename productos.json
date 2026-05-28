@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "icono": "fa fa-glass-water",
+      "icono": "fa fa-glass",
       "tipoIcono": "fa",
       "titulo": "Chicha helada",
       "descripcion": "Refresco hervido de maíz morado.",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "icono": "fa fa-glass-water",
+      "icono": "fa fa-lemon-o",
       "tipoIcono": "fa",
       "titulo": "Jugo Natural de Papaya",
       "descripcion": "Refrescante jugo preparado al instante.",
