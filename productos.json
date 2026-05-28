@@ -2,7 +2,7 @@
   "productos": [
     {
       "id": 1,
-      "icono": "fa fa-car",
+      "icono": "fa fa-coffee",
       "tipoIcono": "fa",
       "titulo": "Café Americano",
       "descripcion": "Café pasado tradicional, ideal para acompañar tus descansos.",
@@ -15,7 +15,7 @@
     },
     {
       "id": 2,
-      "icono": "fa fa-money-bill-alt",
+      "icono": "fa fa-bread-slice",
       "tipoIcono": "fa",
       "titulo": "Sándwich Mixto",
       "descripcion": "Pan tostado con jamón y queso derretido.",
@@ -27,7 +27,7 @@
     },
     {
       "id": 3,
-      "icono": "fa fa-road",
+      "icono": "fa fa-utensils",
       "tipoIcono": "fa",
       "titulo": "Sándwich Mixto - Waflera de Mama",
       "descripcion": "Pan a la Waflera tostado con jamón, queso derretido y especias.",
@@ -39,11 +39,11 @@
     },
     {
       "id": 4,
-      "icono": "fa fa-umbrella",
+      "icono": "fa fa-glass-water",
       "tipoIcono": "fa",
       "titulo": "Chicha helada",
       "descripcion": "Refresco hervido de maíz morado.",
-      "detalle": "Hervido de chicha de textura ligera y sensacion refrescante..",
+      "detalle": "Hervido de chicha de textura ligera y sensacion refrescante.",
       "imagen": "img/icon-auto.png",
       "precio": "S/ 18.00 - 6.00",
       "stock": "Disponible",
@@ -51,7 +51,7 @@
     },
     {
       "id": 5,
-      "icono": "fa fa-exchange-alt",
+      "icono": "fa fa-birthday-cake",
       "tipoIcono": "fa",
       "titulo": "Torta de Chocolate",
       "descripcion": "Porción de torta húmeda de chocolate artesanal.",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "icono": "fa fa-building",
+      "icono": "fa fa-glass-water",
       "tipoIcono": "fa",
       "titulo": "Jugo Natural de Papaya",
       "descripcion": "Refrescante jugo preparado al instante.",
@@ -75,8 +75,8 @@
     },
     {
       "id": 7,
-      "icono": "img/icono-new-seguro-salud.png",
-      "tipoIcono": "img",
+      "icono": "fa fa-cocktail",
+      "tipoIcono": "fa",
       "titulo": "Jugo Surtido",
       "descripcion": "Combinación de frutas frescas de temporada.",
       "detalle": "Una bebida refrescante y energética. PREGUNTA EN CARTA por las frutas de temporada",
@@ -87,8 +87,8 @@
     },
     {
       "id": 8,
-      "icono": "img/icono-new-seguro-auto.png",
-      "tipoIcono": "img",
+      "icono": "fa fa-concierge-bell",
+      "tipoIcono": "fa",
       "titulo": "Buffet Familiar",
       "descripcion": "1 Café, 3 panes y 1 jugo natural. A elección huevos revuelto, mermelada y mantequilla.",
       "detalle": "Combo ideal para empezar el día, promoción en mesa 3x4.",
@@ -101,8 +101,8 @@
     },
     {
       "id": 9,
-      "icono": "img/icono-new-seguro-vida.png",
-      "tipoIcono": "img",
+      "icono": "fa fa-pizza-slice",
+      "tipoIcono": "fa",
       "titulo": "Empanada de Pollo",
       "descripcion": "Empanada horneada rellena de pollo sazonado.",
       "detalle": "Crujiente por fuera y deliciosa por dentro.",
