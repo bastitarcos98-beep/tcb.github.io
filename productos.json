@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "icono": "fa fa-glass",
+      "icono": "fa fa-birthday-cake",
       "tipoIcono": "fa",
       "titulo": "Chicha helada",
       "descripcion": "Refresco hervido de maíz morado.",
@@ -63,7 +63,7 @@
     },
     {
       "id": 6,
-      "icono": "fa fa-lemon-o",
+      "icono": "fa fa-solid fa-blender",
       "tipoIcono": "fa",
       "titulo": "Jugo Natural de Papaya",
       "descripcion": "Refrescante jugo preparado al instante.",
@@ -75,7 +75,7 @@
     },
     {
       "id": 7,
-      "icono": "fa fa-solid fa-blender",
+      "icono": "fa fa-cocktail",
       "tipoIcono": "fa",
       "titulo": "Jugo Surtido",
       "descripcion": "Combinación de frutas frescas de temporada.",
@@ -101,7 +101,7 @@
     },
     {
       "id": 9,
-      "icono": "fa fa-pizza-slice",
+      "icono": "fa fa-utensils",
       "tipoIcono": "fa",
       "titulo": "Empanada de Pollo",
       "descripcion": "Empanada horneada rellena de pollo sazonado.",
