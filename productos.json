@@ -75,7 +75,7 @@
     },
     {
       "id": 7,
-      "icono": "fa fa-cocktail",
+      "icono": "fa fa-solid fa-blender",
       "tipoIcono": "fa",
       "titulo": "Jugo Surtido",
       "descripcion": "Combinación de frutas frescas de temporada.",
